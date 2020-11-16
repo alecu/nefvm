@@ -1,0 +1,139 @@
+::StoryTitle
+No escape from Villa Miseria
+
+::Presentación del personaje [Presentación] <97,165>
+17 años
+Último año de secundario
+Mamá trabaja cuidando niñes en Recoleta
+Papa trabaja como obrero de la construccion
+Hna no trabaja, cuida a sus dos niñes
+[[¿Qué carrera vas a elegir?]]
+
+::Medicina <666,40>
+Ya van 4 meses desde que empezaste la carrera y no tenés tiempo libre ni para juntarte con tus amigxs, ni para conseguir un trabajo de medio tiempo.
+Te das cuenta que si seguís estudiando medicina no vas a poder mudarte sólo.
+[[Es hora de dejar la facultad->Te cruzas con un amigo]] 
+[[Prefiero vivir con mi familia y terminar la facultad->Seguir con la facu]]
+
+::¿Qué carrera vas a elegir? <376,192>
+Se vienen las inscripciones a las carreras y tenés que elegir a cual te anotas. Siempre fantaseaste con estudiar medicina, pero pensas que es muy dificil y que lleva muchos años. Pensas que enfermería en una opción mas accesible. 
+¿Qué carrera vas a elegir?
+[[Medicina->Medicina]] 
+[[Enfermería->Enfermeria]] 
+[[Prefiero sólo trabajar->Solo trabajar]]
+
+::Enfermeria <661,191>
+Ya van 4 meses desde que empezaste la carrera y la venís llevando bien. Te alcanza el tiempo para agarrar un trabajo de medio tiempo.
+Extrañás salir de gira con tus amigxs, pero no te alcanza la guita.
+[[Prefiero dedicarle todo mi tiempo a la facultad->Seguir con la facu]] 
+[[Necesito conseguir un trabajo de medio tiempo->Te cruzas con un amigo]]
+
+::Te cruzas con un amigo <966,246>
+Te encontras con tu amigo Julito
+Te ofrece un laburo que paga muy bien vendiendo bicis "nuevas"
+Sospechas que el laburo es medio turbio pero es buena guita
+[[Aceptas el trabajo->Aceptas el trabajo]] 
+[[No aceptas el trabajo->Seguis Buscando]]
+
+::Aceptas el trabajo <1203,142>
+Empezas a ganar buena guita, trabajando pocas horas.
+Pensas que con unos meses más, quizás te alcanza para mudarte solo.
+El trabajo cada vez es más sospechoso.
+[[Seguís laburando y juntando guita->Ahorrar]] 
+[[Preferis buscar otro laburo->Seguis Buscando]]
+
+::Seguir con la facu <969,39>
+Después de un par de meses tu viejo tiene un accidente de trabajo, y no le van a cubrir ni un peso.
+No te queda otra que encontrar un laburo, tu viejo te ofrece remplazarlo, pero es un laburo de todo le día y deberias dejar la facultad
+[[Lo llamas a tu amigo Julito->Te cruzas con un amigo]] 
+[[Te pones en búsqueda de un trabajo de medio tiempo->Seguis Buscando]] 
+[[Dejas la facu y te pones a laburar toddo el día->Laburar todo el dia]]
+
+::Solo trabajar <658,350>
+Ya van 4 meses desde que estás buscando laburo pero no aparece nada.
+Estas aburrido
+Queres salir de tu casa.
+[[Le pegas un llamado a un amigo a ver si tiene algo para ofrecerte.->Te cruzas con un amigo]] 
+[[Tu amigo es un turbio, preferis seguir buscando por tu cuenta.->Seguis Buscando]]
+
+::Seguis Buscando <1201,443>
+Buscar laburo se pone dificil. Te ofrecen laburar unas horas para cubrir unos francos en un locutorio.
+La guita es poca, no te alcanza para mudarte solo pero sí para salir con tus amigxs los fines de semana.
+[[Aceptas el trabajo y empezas a ahorrar guita->Ahorrar]] 
+[[Aceptas el trabajo y te la gastas en el finde->Finde]]
+
+::Ahorrar <1468,222>
+Venís ahorrando y laburando al mismo tiempo.
+Sentis que estas haciendo las cosas bien
+Este finde tenes que preparar un final
+Te llama justo una amiga del secundario
+[[Atendes->Atendes]] 
+[[No atendes, te quedas estudiando->No atendes]]
+
+::Finde <1475,480>
+Saliste de joda y en el lugar se empieza a descontrolar todo.
+[[Te quedas a ver que pasa->Te quedas en el bar]] 
+[[Te volves a tu casa->Volves a casa]]
+
+::Te quedas en el bar <1770,553>
+Un grupo de pibes se empiezan a cagar a piñas y cae la yuta.
+Te agarran a vos y a todo tu grupo de amigos, les dicen que le van a abrir una causa.
+[[Te comes el bajón de ir a la comisaria, que te abran la causa y explicar lo que paso->Comisaria]]
+[[Les ofrecés una coima a ver si te dejan ir.->coima]]
+
+::Volves a casa <2371,441>
+Volves a tu casa y tu familia te nota medio raro, pero están todos atendiendo a tu hermana que parece que levantó fiebre.
+Tu mamá te cuenta que la señora con la que trabaja sabe de un trabajo en recoleta para cuidar a una persona mayor.
+Pensás que quizas con eso
+
+::Comisaria <2054,650>
+Te abren una causa por conflictos en el bar.
+Pasas la noche ahí y después te largan
+[[Te volves a tu casa->Volves a casa]]
+
+::coima <2050,511>
+Te cagan a piñas pero despues de un rato te largan
+[[Te volves a tu casa->Volves a casa]]
+
+::Laburar todo el dia <1462,21>
+Laburás todo el dia, y en tu casa pueden mantenerse economicamente
+Te llama justo una amiga del secundario
+[[Atendes->Atendes]] 
+[[No atendes, te quedas estudiando->No atendes]]
+
+::Atendes <1749,43>
+Marita te cuenta que el barrio tiene un proyecto de urbanización y que un grupo de vecinxs se junta los viernes en la Mesa de Gestión participativa.
+Hasta el momento no habías pensado que podías participar en las decisiones del barrio pero tenes cosas que hacer.
+[[Le decís que vas a ir a la reunión.->Vas a la reunión]] 
+[[Le decís que no podes.->No vas a la reunión]]
+
+::No atendes <1748,236>
+Estás muy ocupado, no podés atenderla.
+[[Le escribis un whatsapp a ver si necesita algo.->No vas a la reunión]]
+
+::Vas a la reunión <2055,39>
+Vas a la reunión y te das cuenta que hay un montón de planes para mejorar el barrio, empezas a dudas si la mejor idea es irte del barrio.
+[[Volvés a tu casa para comentarle a tu familia y que participen ellxs también de la reunión.->Volves a casa y le contas a tu familia]]
+[[Pensás que el barrio no tiene esperanzas reales y volves a tu casa sin contarle a nadie de las reuniones.->Volves a casa]]
+
+::No vas a la reunión <2052,181>
+Marita te cuenta que el viernes se juntaron los vecinos a discutir sobre la urbanizacion del barrio. Estaban todos los referentes de las manzanas y alugnos personajes del gobierno. Parece que hay un sector del barrio que quieren demoler para construir un hospital, que la obra le va a dar laburo a mucha gente y que después van a necesitar doctores y enfermeros. Pero que todavia no se sabe en que lugar del barrio va a ser.
+Te pregunta si no te interesa involucrarte en el tema y no querés ir a la próxima reunión.
+[[Le respondés que sí te gustaría ir.->Vas a la reunión]]
+[[Estas justo en epocas de finales y no podes ir.->No vas a ninguna reunión]]
+
+::No vas a ninguna reunión <2051,316>
+[[Pensás que el barrio no tiene esperanzas reales y volves a tu casa sin contarle a nadie de las reuniones.->Volves a casa]]
+
+::Volves a casa y le contas a tu familia <2378,164>
+Llegás a tu casa y te encontrás solo con tu hermana y sus dos hijes. Le contás de la reunión y del proyecto de urbanización del barrio.
+Le explicas todos los planes de mejorar los servicios y de abrir un nuevo hospital que le va dar laburo a un monton de gente
+A tu hermana le parece genial que te involucres en los planes del barrio, pero ella no puede ir, ya que a esa hora tienen que prepararles de comer a lxs chicxs.
+Cuando le contás a tus papás quedan encantados con la idea, y se suman a la próxima reunión.
+
+::Un final feliz
+Un final feliz, naciste en otro lado y ganaste.
+
+::Twee2Settings [twee2]
+@story_start_name = 'Presentación del personaje'
+
