@@ -4,7 +4,7 @@ No escape from Villa Miseria
 
 ::1 [Carátula]
 1 [[>>|2]]
-!No Escape (from Villa Miseria)
+<h1>No Escape (from Villa Miseria)</h1>
 
 //un juego de Lala Birger, Alejandro J. Cura y Pablo F. Quarta//
 //Fotos de Lala Birger//
@@ -14,10 +14,10 @@ Además necesitás Lápiz, Goma de Borrar y un dado común de 6 caras. El juego 
 
 
 
-comenzá a Jugar, pasá a 13.
+comenzá a Jugar, pasá a 15.
 
-::13 [Presentación del personaje] <97,165>
-[[<<|12]] 13 [[>>|14]]
+::15 [Presentación del personaje] <97,165>
+[[<<|14]] 15 [[>>|16]]
 <img src="http://alecu.protocultura.net/nefvm/fotos/01.El%20cuarto.jpg">
 17 años
 Último año de secundario
@@ -25,174 +25,174 @@ Mamá trabaja cuidando niñes en Recoleta
 Papa trabaja como obrero de la construccion
 Hna no trabaja, cuida a sus dos niñes
 
-¿Qué carrera vas a elegir?, pasá a 11.
+¿Qué carrera vas a elegir?, pasá a 25.
 
-::8 [Medicina] <666,40>
-[[<<|7]] 8 [[>>|9]]
+::24 [Medicina] <666,40>
+[[<<|23]] 24 [[>>|25]]
 Ya van 4 meses desde que empezaste la carrera y no tenés tiempo libre ni para juntarte con tus amigxs, ni para conseguir un trabajo de medio tiempo.
 Te das cuenta que si seguís estudiando medicina no vas a poder mudarte sólo.
 
-Si es hora de dejar la facultad, pasá a 9.
-Si prefiero vivir con mi familia y terminar la facultad, pasá a 20.
+Si es hora de dejar la facultad, pasá a 23.
+Si prefiero vivir con mi familia y terminar la facultad, pasá a 4.
 
-::11 [¿Qué carrera vas a elegir?] <376,192>
-[[<<|10]] 11 [[>>|12]]
+::25 [¿Qué carrera vas a elegir?] <376,192>
+[[<<|24]] 25
 Se vienen las inscripciones a las carreras y tenés que elegir a cual te anotas. Siempre fantaseaste con estudiar medicina, pero pensas que es muy dificil y que lleva muchos años. Pensas que enfermería en una opción mas accesible.
 ¿Qué carrera vas a elegir?
 
-Si medicina, pasá a 8.
-Si enfermería, pasá a 5.
-Si prefiero sólo trabajar, pasá a 24.
+Si medicina, pasá a 24.
+Si enfermería, pasá a 20.
+Si prefiero sólo trabajar, pasá a 5.
 
-::5 [Enfermeria] <661,191>
-[[<<|4]] 5 [[>>|6]]
+::20 [Enfermeria] <661,191>
+[[<<|19]] 20 [[>>|21]]
 Ya van 4 meses desde que empezaste la carrera y la venís llevando bien. Te alcanza el tiempo para agarrar un trabajo de medio tiempo.
 Extrañás salir de gira con tus amigxs, pero no te alcanza la guita.
 
-Si prefiero dedicarle todo mi tiempo a la facultad, pasá a 20.
-Si necesito conseguir un trabajo de medio tiempo, pasá a 9.
+Si prefiero dedicarle todo mi tiempo a la facultad, pasá a 4.
+Si necesito conseguir un trabajo de medio tiempo, pasá a 23.
 
-::9 [Te cruzas con un amigo] <966,246>
-[[<<|8]] 9 [[>>|10]]
+::23 [Te cruzas con un amigo] <966,246>
+[[<<|22]] 23 [[>>|24]]
 Te encontras con tu amigo Julito
 Te ofrece un laburo que paga muy bien vendiendo bicis "nuevas"
 Sospechas que el laburo es medio turbio pero es buena guita
 
-Si aceptas el trabajo, pasá a 10.
-Si no aceptas el trabajo, pasá a 17.
+Si aceptas el trabajo, pasá a 22.
+Si no aceptas el trabajo, pasá a 8.
 
-::10 [Aceptas el trabajo] <1203,142>
-[[<<|9]] 10 [[>>|11]]
+::22 [Aceptas el trabajo] <1203,142>
+[[<<|21]] 22 [[>>|23]]
 Empezas a ganar buena guita, trabajando pocas horas.
 Pensas que con unos meses más, quizás te alcanza para mudarte solo.
 El trabajo cada vez es más sospechoso.
 
-Si seguís laburando y juntando guita, pasá a 25.
-Si preferis buscar otro laburo, pasá a 17.
+Si seguís laburando y juntando guita, pasá a 19.
+Si preferis buscar otro laburo, pasá a 8.
 
-::20 [Seguir con la facu] <969,39>
-[[<<|19]] 20 [[>>|21]]
+::4 [Seguir con la facu] <969,39>
+[[<<|3]] 4 [[>>|5]]
 Después de un par de meses tu viejo tiene un accidente de trabajo, y no le van a cubrir ni un peso.
 No te queda otra que encontrar un laburo, tu viejo te ofrece remplazarlo, pero es un laburo de todo le día y deberias dejar la facultad
 
-Si lo llamas a tu amigo Julito, pasá a 9.
-Si te pones en búsqueda de un trabajo de medio tiempo, pasá a 17.
-Si dejas la facu y te pones a laburar toddo el día, pasá a 12.
+Si lo llamas a tu amigo Julito, pasá a 23.
+Si te pones en búsqueda de un trabajo de medio tiempo, pasá a 8.
+Si dejas la facu y te pones a laburar toddo el día, pasá a 21.
 
-::24 [Solo trabajar] <658,350>
-[[<<|23]] 24 [[>>|25]]
+::5 [Solo trabajar] <658,350>
+[[<<|4]] 5 [[>>|6]]
 Ya van 4 meses desde que estás buscando laburo pero no aparece nada.
 Estas aburrido
 Queres salir de tu casa.
 
-Si le pegas un llamado a un amigo a ver si tiene algo para ofrecerte, pasá a 9.
-Si tu amigo es un turbio, preferis seguir buscando por tu cuenta, pasá a 17.
+Si le pegas un llamado a un amigo a ver si tiene algo para ofrecerte, pasá a 23.
+Si tu amigo es un turbio, preferis seguir buscando por tu cuenta, pasá a 8.
 
-::17 [Seguis Buscando] <1201,443>
-[[<<|16]] 17 [[>>|18]]
+::8 [Seguis Buscando] <1201,443>
+[[<<|7]] 8 [[>>|9]]
 Buscar laburo se pone dificil. Te ofrecen laburar unas horas para cubrir unos francos en un locutorio.
 La guita es poca, no te alcanza para mudarte solo pero sí para salir con tus amigxs los fines de semana.
 
-Si aceptas el trabajo y empezas a ahorrar guita, pasá a 25.
-Si aceptas el trabajo y te la gastas en el finde, pasá a 23.
+Si aceptas el trabajo y empezas a ahorrar guita, pasá a 19.
+Si aceptas el trabajo y te la gastas en el finde, pasá a 7.
 
-::25 [Ahorrar] <1468,222>
-[[<<|24]] 25
+::19 [Ahorrar] <1468,222>
+[[<<|18]] 19 [[>>|20]]
 Venís ahorrando y laburando al mismo tiempo.
 Sentis que estas haciendo las cosas bien
 Este finde tenes que preparar un final
 Te llama justo una amiga del secundario
 
-Si atendes, pasá a 4.
-Si no atendes, te quedas estudiando, pasá a 18.
+Si atendes, pasá a 18.
+Si no atendes, te quedas estudiando, pasá a 12.
 
-::23 [Finde] <1475,480>
-[[<<|22]] 23 [[>>|24]]
+::7 [Finde] <1475,480>
+[[<<|6]] 7 [[>>|8]]
 Saliste de joda y en el lugar se empieza a descontrolar todo.
 
-Si te quedas a ver que pasa, pasá a 22.
-Si te volves a tu casa, pasá a 21.
+Si te quedas a ver que pasa, pasá a 3.
+Si te volves a tu casa, pasá a 11.
 
-::22 [Te quedas en el bar] <1770,553>
-[[<<|21]] 22 [[>>|23]]
+::3 [Te quedas en el bar] <1770,553>
+[[<<|2]] 3 [[>>|4]]
 Un grupo de pibes se empiezan a cagar a piñas y cae la yuta.
 Te agarran a vos y a todo tu grupo de amigos, les dicen que le van a abrir una causa.
 
-Si te comes el bajón de ir a la comisaria, que te abran la causa y explicar lo que paso, pasá a 3.
-Si les ofrecés una coima a ver si te dejan ir, pasá a 15.
+Si te comes el bajón de ir a la comisaria, que te abran la causa y explicar lo que paso, pasá a 16.
+Si les ofrecés una coima a ver si te dejan ir, pasá a 6.
 
-::21 [Volves a casa] <2371,441>
-[[<<|20]] 21 [[>>|22]]
+::11 [Volves a casa] <2371,441>
+[[<<|10]] 11 [[>>|12]]
 Volves a tu casa y tu familia te nota medio raro, pero están todos atendiendo a tu hermana que parece que levantó fiebre.
 Tu mamá te cuenta que la señora con la que trabaja sabe de un trabajo en recoleta para cuidar a una persona mayor.
 Pensás que quizas con eso
 
 
-::3 [Comisaria] <2054,650>
-[[<<|2]] 3 [[>>|4]]
+::16 [Comisaria] <2054,650>
+[[<<|15]] 16 [[>>|17]]
 Te abren una causa por conflictos en el bar.
 Pasas la noche ahí y después te largan
 
-te volves a tu casa, pasá a 21.
+te volves a tu casa, pasá a 11.
 
-::15 [coima] <2050,511>
-[[<<|14]] 15 [[>>|16]]
+::6 [coima] <2050,511>
+[[<<|5]] 6 [[>>|7]]
 Te cagan a piñas pero despues de un rato te largan
 
-te volves a tu casa, pasá a 21.
+te volves a tu casa, pasá a 11.
 
-::12 [Laburar todo el dia] <1462,21>
-[[<<|11]] 12 [[>>|13]]
+::21 [Laburar todo el dia] <1462,21>
+[[<<|20]] 21 [[>>|22]]
 Laburás todo el dia, y en tu casa pueden mantenerse economicamente
 Te llama justo una amiga del secundario
 
-Si atendes, pasá a 4.
-Si no atendes, te quedas estudiando, pasá a 18.
+Si atendes, pasá a 18.
+Si no atendes, te quedas estudiando, pasá a 12.
 
-::4 [Atendes] <1749,43>
-[[<<|3]] 4 [[>>|5]]
+::18 [Atendes] <1749,43>
+[[<<|17]] 18 [[>>|19]]
 Marita te cuenta que el barrio tiene un proyecto de urbanización y que un grupo de vecinxs se junta los viernes en la Mesa de Gestión participativa.
 Hasta el momento no habías pensado que podías participar en las decisiones del barrio pero tenes cosas que hacer.
 
-Si le decís que vas a ir a la reunión, pasá a 16.
-Si le decís que no podes, pasá a 7.
+Si le decís que vas a ir a la reunión, pasá a 9.
+Si le decís que no podes, pasá a 17.
 
-::18 [No atendes] <1748,236>
-[[<<|17]] 18 [[>>|19]]
+::12 [No atendes] <1748,236>
+[[<<|11]] 12 [[>>|13]]
 Estás muy ocupado, no podés atenderla.
 
-le escribis un whatsapp a ver si necesita algo, pasá a 7.
+le escribis un whatsapp a ver si necesita algo, pasá a 17.
 
-::16 [Vas a la reunión] <2055,39>
-[[<<|15]] 16 [[>>|17]]
+::9 [Vas a la reunión] <2055,39>
+[[<<|8]] 9 [[>>|10]]
 Vas a la reunión y te das cuenta que hay un montón de planes para mejorar el barrio, empezas a dudas si la mejor idea es irte del barrio.
 
-Si volvés a tu casa para comentarle a tu familia y que participen ellxs también de la reunión, pasá a 19.
-Si pensás que el barrio no tiene esperanzas reales y volves a tu casa sin contarle a nadie de las reuniones, pasá a 21.
+Si volvés a tu casa para comentarle a tu familia y que participen ellxs también de la reunión, pasá a 13.
+Si pensás que el barrio no tiene esperanzas reales y volves a tu casa sin contarle a nadie de las reuniones, pasá a 11.
 
-::7 [No vas a la reunión] <2052,181>
-[[<<|6]] 7 [[>>|8]]
+::17 [No vas a la reunión] <2052,181>
+[[<<|16]] 17 [[>>|18]]
 Marita te cuenta que el viernes se juntaron los vecinos a discutir sobre la urbanizacion del barrio. Estaban todos los referentes de las manzanas y alugnos personajes del gobierno. Parece que hay un sector del barrio que quieren demoler para construir un hospital, que la obra le va a dar laburo a mucha gente y que después van a necesitar doctores y enfermeros. Pero que todavia no se sabe en que lugar del barrio va a ser.
 Te pregunta si no te interesa involucrarte en el tema y no querés ir a la próxima reunión.
 
-Si le respondés que sí te gustaría ir, pasá a 16.
-Si estas justo en epocas de finales y no podes ir, pasá a 6.
+Si le respondés que sí te gustaría ir, pasá a 9.
+Si estas justo en epocas de finales y no podes ir, pasá a 14.
 
-::6 [No vas a ninguna reunión] <2051,316>
-[[<<|5]] 6 [[>>|7]]
+::14 [No vas a ninguna reunión] <2051,316>
+[[<<|13]] 14 [[>>|15]]
 
-pensás que el barrio no tiene esperanzas reales y volves a tu casa sin contarle a nadie de las reuniones, pasá a 21.
+pensás que el barrio no tiene esperanzas reales y volves a tu casa sin contarle a nadie de las reuniones, pasá a 11.
 
-::19 [Volves a casa y le contas a tu familia] <2378,164>
-[[<<|18]] 19 [[>>|20]]
+::13 [Volves a casa y le contas a tu familia] <2378,164>
+[[<<|12]] 13 [[>>|14]]
 Llegás a tu casa y te encontrás solo con tu hermana y sus dos hijes. Le contás de la reunión y del proyecto de urbanización del barrio.
 Le explicas todos los planes de mejorar los servicios y de abrir un nuevo hospital que le va dar laburo a un monton de gente
 A tu hermana le parece genial que te involucres en los planes del barrio, pero ella no puede ir, ya que a esa hora tienen que prepararles de comer a lxs chicxs.
 Cuando le contás a tus papás quedan encantados con la idea, y se suman a la próxima reunión.
 
 
-::14 [Un final feliz?]
-[[<<|13]] 14 [[>>|15]]
+::10 [Un final feliz?]
+[[<<|9]] 10 [[>>|11]]
 Sin tomar ninguna decisión correcta, sin ningún mérito, y sólo con distinta suerte naciste en otra barrio y con otra familia. Esto te dio otras oportunidades que en la otra vida no habrias tenido. No te hizo falta salir de la villa miseria, pero de alguna manera date cuenta que esto es lo mas parecido que vas a encontrar a un final feliz.
 
 
