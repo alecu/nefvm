@@ -40,7 +40,8 @@ class Section:
             ret += " <%s>" % position
         ret += "\n"
 
-        if converted and title not in ("StoryTitle", "Twee2Settings"):
+        if converted and title not in ("StoryTitle", "Twee2Settings",
+        "Estilos", "Creditos"):
             n = int(title)
             if n > 1:
                 ret += "[[<<|%d]] " % (n - 1)

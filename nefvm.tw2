@@ -1,7 +1,20 @@
 ::StoryTitle
 No escape from Villa Miseria
 
+::Carátula
+No Escape (from Villa Miseria)
+
+un juego de Lala Birger, Alejandro J. Cura y Pablo F. Quarta
+Fotos de Lala Birger
+
+Para jugar este juego tenés que imprimir una hoja de personaje, o borrar el contenido de alguna que ya tengas.
+Además necesitás Lápiz, Goma de Borrar y un dado común de 6 caras. El juego te va a decir cuando los tenés que usar.
+
+[[Comenzá a Jugar->Presentación del personaje]]
+
+
 ::Presentación del personaje [Presentación] <97,165>
+<img src="http://alecu.protocultura.net/nefvm/fotos/01.El%20cuarto.jpg">
 17 años
 Último año de secundario
 Mamá trabaja cuidando niñes en Recoleta
@@ -131,9 +144,19 @@ Le explicas todos los planes de mejorar los servicios y de abrir un nuevo hospit
 A tu hermana le parece genial que te involucres en los planes del barrio, pero ella no puede ir, ya que a esa hora tienen que prepararles de comer a lxs chicxs.
 Cuando le contás a tus papás quedan encantados con la idea, y se suman a la próxima reunión.
 
-::Un final feliz
-Un final feliz, naciste en otro lado y ganaste.
+::Un final feliz?
+Sin tomar ninguna decisión correcta, sin ningún mérito, y sólo con distinta suerte naciste en otra barrio y con otra familia. Esto te dio otras oportunidades que en la otra vida no habrias tenido. No te hizo falta salir de la villa miseria, pero de alguna manera date cuenta que esto es lo mas parecido que vas a encontrar a un final feliz.
+
+::Estilos [stylesheet]
+img {
+    max-width: 100%;
+}
+
+::Creditos
+img {
+    max-width: 100%;
+}
 
 ::Twee2Settings [twee2]
-@story_start_name = 'Presentación del personaje'
+@story_start_name = 'Carátula'
 
