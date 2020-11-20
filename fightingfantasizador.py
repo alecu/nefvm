@@ -41,7 +41,7 @@ class Section:
         ret += "\n"
 
         if converted and title not in ("StoryTitle", "Twee2Settings",
-        "Estilos", "Creditos"):
+        "Estilos"):
             n = int(title)
             if n > 1:
                 ret += "[[<<|%d]] " % (n - 1)
@@ -92,6 +92,7 @@ for line in sys.stdin.readlines():
 keys = list(sections.keys())
 keys.remove("StoryTitle")
 keys.remove("Twee2Settings")
+keys.remove("Estilos")
 start = keys.pop(0)
 random.shuffle(keys)
 keys.insert(0, start)
