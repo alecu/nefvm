@@ -14,7 +14,7 @@ Además necesitás Lápiz, Goma de Borrar y un dado común de 6 caras. El juego 
 
 
 ::Presentación del personaje [Presentación] <97,165>
-<img src="http://alecu.protocultura.net/nefvm/fotos/01.El%20cuarto.jpg">
+<img src="fotos/01.El%20cuarto.jpg">
 17 años
 Último año de secundario
 Mamá trabaja cuidando niñes en Recoleta
@@ -28,12 +28,16 @@ Te das cuenta que si seguís estudiando medicina no vas a poder mudarte sólo.
 [[Es hora de dejar la facultad->Te cruzas con un amigo]] 
 [[Prefiero vivir con mi familia y terminar la facultad->Seguir con la facu]]
 
+<img src="fotos/03.La cocina.jpg">
+
 ::¿Qué carrera vas a elegir? <376,192>
 Se vienen las inscripciones a las carreras y tenés que elegir a cual te anotas. Siempre fantaseaste con estudiar medicina, pero pensas que es muy dificil y que lleva muchos años. Pensas que enfermería en una opción mas accesible. 
 ¿Qué carrera vas a elegir?
 [[Medicina->Medicina]] 
 [[Enfermería->Enfermeria]] 
 [[Prefiero sólo trabajar->Solo trabajar]]
+
+<img src="fotos/02.La vista desde el balcon2.jpg">
 
 ::Enfermeria <661,191>
 Ya van 4 meses desde que empezaste la carrera y la venís llevando bien. Te alcanza el tiempo para agarrar un trabajo de medio tiempo.
@@ -114,6 +118,8 @@ Te llama justo una amiga del secundario
 [[Atendes->Atendes]] 
 [[No atendes, te quedas estudiando->No atendes]]
 
+<img src="fotos/06.El local.jpg">
+
 ::Atendes <1749,43>
 Marita te cuenta que el barrio tiene un proyecto de urbanización y que un grupo de vecinxs se junta los viernes en la Mesa de Gestión participativa.
 Hasta el momento no habías pensado que podías participar en las decisiones del barrio pero tenes cosas que hacer.
@@ -144,8 +150,12 @@ Le explicas todos los planes de mejorar los servicios y de abrir un nuevo hospit
 A tu hermana le parece genial que te involucres en los planes del barrio, pero ella no puede ir, ya que a esa hora tienen que prepararles de comer a lxs chicxs.
 Cuando le contás a tus papás quedan encantados con la idea, y se suman a la próxima reunión.
 
+<img src="fotos/10.El punto de reunion.jpg">
+
 ::Un final feliz?
 Sin tomar ninguna decisión correcta, sin ningún mérito, y sólo con distinta suerte naciste en otra barrio y con otra familia. Esto te dio otras oportunidades que en la otra vida no habrias tenido. No te hizo falta salir de la villa miseria, pero de alguna manera date cuenta que esto es lo mas parecido que vas a encontrar a un final feliz.
+
+<img src="fotos/99.Barrio La Nave Caballito.jpg">
 
 ::Estilos [stylesheet]
 img {
