@@ -152,11 +152,6 @@ img {
     max-width: 100%;
 }
 
-::Creditos
-img {
-    max-width: 100%;
-}
-
 ::Twee2Settings [twee2]
 @story_start_name = 'Carátula'
 
